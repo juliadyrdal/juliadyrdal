@@ -4,15 +4,15 @@ I'm a self-taught frontend developer. I work mostly with Vue and Nuxt but enjoy 
 
 ## Check out my projects 🚀
 - [YouWish](https://github.com/juliadyrdal/youwish-frontend) - A wishlist app using Vue/Nuxt 3 and Metascraper via the product-data-api (see project below).  
-  **[Live Demo](https://youwish.example.com)**
+  🎁**[Live Demo](https://youwish.example.com)**
 
 - [Product data API](https://github.com/juliadyrdal/product-data-api) - An API to fetch product data from a product URL. Built with Node.js, Express, and Metascraper.
 
 - [SoundCanvas](https://github.com/juliadyrdal/soundcanvas) - A web application where musicians can create their own 1-page website to promote themselves and their music.  
-  **[Live Demo](https://soundcanvas.example.com)**
+  🎸**[Live Demo](https://soundcanvas.example.com)**
 
 - [Portfolio](https://github.com/juliadyrdal/portfolio-nuxt) - My portfolio website, made with Vue/Nuxt and Nuxt Content for content management.  
-  **[Live Site](https://portfolio.example.com)**
+  🤖**[Live Site](https://portfolio.example.com)**
 
 ## Get in touch 📫
 [juliadyrdal@protonmail.com](mailto:juliadyrdal@protonmail.com)
